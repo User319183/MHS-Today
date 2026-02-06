@@ -1,0 +1,16 @@
+{
+  "school": {
+    "name": "Marlboro High School",
+    "district": "Freehold Regional High School District",
+    "mascot": "Mustangs",
+    "colors": ["Blue", "White"],
+    "address": "95 North Main Street, Marlboro, NJ 07746",
+    "website": "https://marlboro.frhsd.com"
+  },
+  "quickFacts": [
+    { "label": "District", "value": "FRHSD" },
+    { "label": "Mascot", "value": "Mustangs" },
+    { "label": "Colors", "value": "Blue & White" },
+    { "label": "Grades", "value": "9–12" }
+  ]
+}
